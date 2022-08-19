@@ -5,6 +5,15 @@
 - 🌱 Cursando técnico em informática ...
 - ✉️ Contate-me no email: vinicius.lima.avila@hotmail.com
 
+### Hello I'm Vinicius Lima 👋
+
+
+- 🔭 I'm currently looking for a job/internship to put my learning into practice...
+- 🌱 Studying computer technician...
+- ✉️ Contact me by email: vinicius.lima.avila@hotmail.com
+
+
+
 ## Eaii eu sou o Vinicius Lima!
 <div align="center">
   <a href="https://github.com/viniciuslimaavila">
