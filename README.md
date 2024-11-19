@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente estou em busca de trabalho/estágio para por em prática meu aprendizado ...
-- 🌱 Cursando técnico em informática ...
-- ✉️ Contate-me no email: vinicius.lima.avila@hotmail.com
+- 🌱 Cursando análise e desenvolvimento de sistemas ...
+- ✉️ Contate-me no email: vinicius.lima.avila@gmail.com
 
 ### Hello I'm Vinicius Lima 👋
 
